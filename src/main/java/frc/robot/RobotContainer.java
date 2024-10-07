@@ -27,17 +27,7 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.InstantCommand;
 import edu.wpi.first.wpilibj2.command.button.JoystickButton;
 import edu.wpi.first.wpilibj2.command.button.POVButton;
-import frc.robot.Auto.ShootAuto;
-import frc.robot.Auto.ShootEnd;
-import frc.robot.Auto.ShootPrep;
-import frc.robot.Commands.Intake;
-import frc.robot.Commands.IntakeAmpStop;
-import frc.robot.Commands.IntakeStop;
-import frc.robot.Subsystem.IntakeSubsystem;
-import frc.robot.Subsystem.LauncherSubsystem;
 import frc.robot.Subsystem.LedSubsystem;
-import frc.robot.Subsystem.Transfer;
-import frc.robot.Subsystem.climber;
 import frc.robot.generated.TunerConstants;
 
 
